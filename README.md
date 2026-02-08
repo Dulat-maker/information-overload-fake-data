@@ -13,4 +13,7 @@ an explainable credibility assessment instead of a simple true/false label.
 - Machine Learning
 - scikit-learn / PyTorch (planned)
 
+## Project Status
+Current stage: Early prototype (MVP).
+The repository will be updated during development.
 
