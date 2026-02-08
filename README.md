@@ -7,4 +7,10 @@ to distinguish reliable data from fake or misleading content.
 We propose an AI-based system that analyzes textual information and provides
 an explainable credibility assessment instead of a simple true/false label.
 
+## Technologies
+- Python
+- NLP
+- Machine Learning
+- scikit-learn / PyTorch (planned)
+
 
